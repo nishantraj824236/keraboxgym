@@ -1,0 +1,1 @@
+{"name":"zbin","version":"1.0.0","main":"index.js","scripts":{},"dependencies":{"express":"^4.18.2","mongodb":"^5.5.0","node":"^21.2.0"},"keywords":[],"author":"","license":"ISC","description":""}
